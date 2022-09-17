@@ -4,9 +4,11 @@
   <a href="https://github.com/Thomashaugeland"><img src="https://github-readme-stats.vercel.app/api?username=Thomashaugeland&hide_border=true&show_icons=true" alt="Thomashaugeland's github stats"></a>
 </p>
 
+<h1 align="center">Check out my other profiles</h1>
+
 <p align="center">
   <strong><a href="https://www.blizzcode.com">Official Website</a></strong> |
-  <strong><a href="www.linkedin.com/in/thomas-haugeland">LinkedIn</a></strong> |
+  <strong><a href="www.linkedin.com/in/thomas-haugeland">LinkedIn</a></strong> 
 </p>
 
 <p align="center">I'm currently working on my Front end education.</p>
