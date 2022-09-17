@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/Thomashaugeland"><img src="https://github-readme-stats.vercel.app/api?username=Thomashaugeland&hide_border=true&show_icons=true" alt="Thomashaugeland's github stats"></a>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomashaugeland&hide=TeX&layout=compact)
 </p>
 
 <p align="center">
@@ -12,7 +11,7 @@
 
 <p align="center">I'm currently working on my Front end education.</p>
 
-
+ ![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomashaugeland&hide=TeX&layout=compact)
 
 <!--
 **Thomashaugeland/Thomashaugeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
