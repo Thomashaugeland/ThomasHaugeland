@@ -11,7 +11,7 @@
 
 <p align="center">I'm currently working on my Front end education.</p>
 
-<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomashaugeland&hide=TeX&layout=compact)</p>
+<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomashaugeland&hide=TeX&layout=compact)</center>
 
 <!--
 **Thomashaugeland/Thomashaugeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
